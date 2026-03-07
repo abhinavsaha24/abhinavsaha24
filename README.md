@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi 👋 I'm Abhinav
 
-<!--
-**abhinavsaha24/abhinavsaha24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Student  
+🔐 Interested in Cybersecurity, Machine Learning, and Quantitative Analysis  
+🚀 Passionate about building real-world tech solutions  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Python
+- c++
+- Machine Learning
+- Git & GitHub
+- Linux
+- Data Analysis
+
+---
+
+## 📌 Featured Projects
+🔎 **Network Port Scanner** – A cybersecurity tool to scan open ports and detect services.  
+🤖 **Customer Churn Prediction** – Machine learning model to predict customer churn.  
+🔐 **Password Security Analyzer** – Tool to evaluate password strength and security.
+
+---
+
+## 🌱 Currently Learning
+- Deep Learning
+- Advanced Cybersecurity
+- Open Source Contribution
+
+---
+
+## 📊 GitHub Stats
+![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinavsaha24&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavsaha24&layout=compact&theme=tokyonight)
+
+---
+
+⭐ Always exploring, learning, and building.
