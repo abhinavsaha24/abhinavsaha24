@@ -302,9 +302,15 @@ public:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhinavsaha24&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinavsaha24&theme=tokyonight" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavsaha24&layout=compact&theme=tokyonight&hide_border=true"/>
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhinavsaha24&theme=tokyonight" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhinavsaha24&theme=tokyonight" />
 
 <br><br>
 
