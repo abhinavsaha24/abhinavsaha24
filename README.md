@@ -1,84 +1,133 @@
-# Hi, I'm Abhinav Saha 👋
+<div align="center"># ⚡ ABHINAV SAHA### Systems Engineering • Quantitative Research • ML Infrastructure • Backend Systems<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Low-Latency+Systems;Designing+Quantitative+Research+Infrastructure;Engineering+ML+Pipelines+%26+Backend+Architectures;Async+Systems+%7C+Trading+Engines+%7C+Distributed+Thinking" /><br>[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.vercel.app)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinavsaha24)[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhinavsaha24)[![Email](https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinavsaha24@gmail.com)</div>---# 🧠 About Me```cppclass AbhinavSaha {public:    string focus = "Systems Engineering & Quant Research";    vector<string> domains = {        "Low-Latency Systems",        "Backend Infrastructure",        "Machine Learning",        "Streaming Architectures",        "Quantitative Research",        "Security Engineering"    };    void currentlyBuilding() {        cout << "Trading systems, async pipelines, ML infra & intelligent tooling";    }};
 
-**Systems Engineering · Quantitative Research · ML Infrastructure · Backend Development**
+⚙️ Core Technologies
+<div align="center">
+Languages
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,bash,sql" />
+Systems & Infrastructure
+<img src="https://skillicons.dev/icons?i=linux,docker,postgres,redis,fastapi,git,github,vercel" />
+ML / AI
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</div>
 
-I build software where **speed, structure, and signal quality** matter — from low-latency data pipelines and trading simulations to applied ML systems and security tooling.
+🚀 Featured Projects
+<table>
+<tr>
+<td width="50%">
+📈 Vision AI
+Crypto Quant Research Platform
+⚡ Async market-data ingestion
+⚡ Redis Streams + PostgreSQL
+⚡ LightGBM + FinBERT signal fusion
+⚡ Event-driven trading architecture
+⚡ WebSocket streaming dashboard
+⚡ CI/CD + Dockerized deployment
+Stack:
+Python FastAPI Redis PostgreSQL Docker
+</td>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinavsaha24&repo=vision-ai&theme=tokyonight&hide_border=true" />
+</td>
+</tr>
+</table>
 
----
+<table>
+<tr>
+<td width="50%">
+⚡ Quant Execution Engine
+Python ML + C++ Trading Simulation
+⚡ Cross-language quant pipeline
+⚡ Python signal generation
+⚡ C++ execution simulation
+⚡ Portfolio metric computation
+⚡ Latency-aware architecture
+Stack:
+Python C++ Scikit-learn
+</td>
+<td width="50%">
+<img src="https://img.shields.io/badge/Focus-Low_Latency_Systems-blue?style=for-the-badge" />
+<br><br>
+<img src="https://img.shields.io/badge/Architecture-Event_Driven-black?style=for-the-badge" />
+<br><br>
+<img src="https://img.shields.io/badge/Domain-Quant_Research-darkgreen?style=for-the-badge" />
+</td>
+</tr>
+</table>
 
-## ⚙️ What I Work On
+<table>
+<tr>
+<td width="50%">
+🛠 Turbofan RUL Prediction System
+Uncertainty-Aware Time-Series Forecasting
+⚡ CNN + BiLSTM + Transformer
+⚡ NASA CMAPSS dataset
+⚡ Monte Carlo Dropout
+⚡ FastAPI + Streamlit deployment
+⚡ Sequence modeling pipeline
+Stack:
+PyTorch FastAPI Streamlit
+</td>
+<td width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavsaha24&theme=tokyonight&hide_border=true" />
+</td>
+</tr>
+</table>
 
-- **Quant / Trading Systems** — market data pipelines, signal research, simulation engines
-- **Systems & Backend Engineering** — async services, concurrency, streaming architectures
-- **Machine Learning Infrastructure** — sequence models, uncertainty-aware prediction, deployment
-- **Security Tools** — port scanning, password analysis, network-aware utilities
+<table>
+<tr>
+<td width="50%">
+🔐 Security Engineering Toolkit
+Multi-Threaded Port Scanner
 
----
 
-## 🧠 Tech Stack
+Concurrent TCP/UDP scanning
 
-**Languages:** Python, C, C++, SQL, Bash, JavaScript, TypeScript  
-**Backend & Systems:** FastAPI, AsyncIO, WebSockets, Redis Streams, PostgreSQL, Multithreading, Socket Programming  
-**ML / AI:** PyTorch, LightGBM, Scikit-learn, XGBoost, CNN, BiLSTM, Attention, FinBERT, SMOTE  
-**Quant / Stats:** Order-book analysis, smart order routing, slippage modelling, Sharpe ratio, t-statistic, profit factor  
-**Infrastructure:** Docker, Docker Compose, GitHub Actions, Linux/Unix, Wireshark, Jupyter Notebook  
-**Security:** TCP/IP, OWASP Top 10, network scanning, Shannon entropy analysis, auth concepts
 
----
+Banner grabbing & fingerprinting
 
-## 🚀 Featured Projects
 
-### **Vision AI** — Crypto Quant Research Platform
-An event-driven crypto research system with async BTC order-book ingestion, signal fusion, and streaming dashboards.  
-Built with **FastAPI, Redis Streams, PostgreSQL, WebSockets, LightGBM, FinBERT, Docker, React**.
+Thread-pool optimization
 
-### **Quant Execution Engine** — Python ML + C++ Trading Simulation
-A cross-language trading pipeline where Python models generate equity signals and a purpose-built C++ engine handles execution simulation and portfolio metrics.
 
-### **Turbofan RUL Prediction System** — Time-Series Forecasting
-A predictive maintenance system for NASA CMAPSS using **CNN, BiLSTM, Attention, and Transformer** models with uncertainty estimation and deployment via **FastAPI + Streamlit**.
+Password Security Analyzer
 
-### **OpenClaw AI** — Multi-Agent Automation Engine
-A deterministic automation system that coordinates local models and tool execution for video generation workflows and API-driven tasks.
 
-### **Multi-Threaded Network Port Scanner**
-A concurrent TCP/UDP scanner with service fingerprinting, banner grabbing, and latency-optimized execution.
+Shannon entropy analysis
 
-### **Advanced Password Security Analyzer**
-A CLI security tool that evaluates password strength using Shannon entropy, regex logic, and dictionary-based weak-password simulation.
 
-### **Customer Churn Prediction System**
-An end-to-end ML pipeline for churn prediction with preprocessing, SMOTE, model selection, and evaluation using **F1, ROC-AUC, and Precision-Recall**.
+Weak-password simulation
 
-### **Library Management System**
-A DBMS project built with **MySQL, Flask, HTML, CSS, JavaScript** featuring schema normalization, joins, triggers, stored procedures, and transactional integrity.
 
----
+Regex pattern scoring
 
-## 🌱 Currently Learning
 
-- Deep Learning systems
-- Market microstructure
-- Distributed systems
-- Applied cryptography
-- High-performance backend design
-- Open-source engineering discipline
+</td>
+<td width="50%">
+<img src="https://img.shields.io/badge/Security-TCP/IP-red?style=for-the-badge" />
+<br><br>
+<img src="https://img.shields.io/badge/Concurrency-Multithreading-orange?style=for-the-badge" />
+<br><br>
+<img src="https://img.shields.io/badge/Engineering-CLI_Tooling-blueviolet?style=for-the-badge" />
+</td>
+</tr>
+</table>
 
----
+📊 Engineering Metrics
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhinavsaha24&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavsaha24&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
 
-## 📊 GitHub Stats
+🌌 Current Focus
+<div align="center">
+DomainCurrent Exploration⚡ SystemsEvent-driven architectures, concurrency, low-latency design📈 QuantMarket microstructure, signal engineering, execution systems🤖 ML InfraSequence models, uncertainty-aware inference, deployment☁️ InfrastructureCI/CD, Docker orchestration, backend reliability🔐 SecurityNetwork tooling, auth systems, applied cryptography
+</div>
 
-![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinavsaha24&show_icons=true&theme=tokyonight)
+🧩 Open Source & Learning
+engineering_philosophy:  - Build systems that are measurable  - Prefer clarity over hype  - Optimize for reliability  - Study infrastructure deeply  - Engineer with intentcurrently_learning:  - Distributed Systems  - Deep Learning Systems  - Applied Cryptography  - Market Microstructure  - OS / Kernel Internals
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavsaha24&layout=compact&theme=tokyonight)
-
----
-
-## 📌 Philosophy
-
-Build systems that are:
-**fast, measurable, reliable, and worth studying.**
-
----
-
-⭐ Always learning, engineering, and refining.
+<div align="center">
+⚡ “Fast. Measurable. Engineered.”
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=footer"/>
+</div>
+```
